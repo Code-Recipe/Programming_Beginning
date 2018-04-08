@@ -1,4 +1,4 @@
-<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)学习完整教程。</notice>
+<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)学习完整教程。</notice>
 
 初入编程
 ======
@@ -24,11 +24,11 @@
 参考 [条件块](#section)
 
 <lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 <lab lang="java" parameters="filename=Hello.java">
-<notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+<notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 public class Hello {
   public static void main(String[] args) {
       System.out.println("Hello Java!");

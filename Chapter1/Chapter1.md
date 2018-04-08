@@ -1,4 +1,4 @@
-<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)学习完整教程。如果您喜欢我们的教程，请在右上角给我们一个“Star”，谢谢您的支持！</notice>
+<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)学习完整教程。如果您喜欢我们的教程，请在右上角给我们一个“Star”，谢谢您的支持！</notice>
 初入编程
 ======
 
@@ -22,7 +22,7 @@
 下面是练习框，让我们跟着练习框的下方的指示一起来熟悉一下练习环境吧。
 
 <lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter1lab1">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 首先，点击左边的“输入输出”，将“输出”块拖到右边。然后，修改一下文字“abc”成“Hello World!”，再点击右边的红色按钮运行。
@@ -44,7 +44,7 @@
 刚才我们学完了最基本的输入输出，那接下来我们可以更进一步，学一下如何让计算机来为我们进行运算。
 
 <lab lang="blocks" parameters="logic=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter1lab2">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 你可能会发现，这个练习环境和之前不一样，因为这里多了一个“数学”按钮，点进去以后会发现里面全都是数学运算，看起来好复杂的样子。让我们从简单的开始，先拖动一个“1+1”块（其实这是四则运算加乘方块，我们等一会儿就知道啦），插在“输出”块上，点击运行，大功告成啦！
@@ -61,7 +61,7 @@
 ------
 让我们来练习一下我们刚学习的知识吧。
 <lab lang="blocks" parameters="logic=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter1lab3">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 试试做出如下的效果：

@@ -1,4 +1,4 @@
-<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)学习完整教程。如果您喜欢我们的教程，请在右上角给我们一个“Star”，谢谢您的支持！</notice>
+<notice>教程读者请不要直接阅读本文件，因为诸多功能在此无法正常使用，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)学习完整教程。如果您喜欢我们的教程，请在右上角给我们一个“Star”，谢谢您的支持！</notice>
 选择判断
 ======
 
@@ -13,7 +13,7 @@
 
 你也可以在下面的练习环境里试一下：
 <lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab1">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 判断是不是
@@ -30,20 +30,20 @@
 下面这个实验环境多了一个“逻辑”功能，这里面其实就有我们判断所需要块，比如“如果”块。我们现在需要这个“如果”块和“=”块。首先我们把“=”块嵌入到如果块的右边，从“数学”功能组里面取出一个数字块（就是那个“0”块）放入左右两边，再在“执行”中放入一个输出语句就可以啦。
 
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab2">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 ![判断](Pic2.png)
 
 当然，如果要做成上面说的>100则提示输入出错效果，则需要再小小修改一下，这就交给大家去完成啦。可以点击下方内容对一下答案哦：
-<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>![判断2](Pic3.png)</cr>
+<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>![判断2](Pic3.png)</cr>
 
 如果…否则…
 ------
 刚才我们有判断这个数字有没有超过100，如果超过了就会提示，那如果我们想让没有超过的时候提示“输入数字正确”，怎么做呢？
 
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab3">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 点击“如果”块左边的白色齿轮，在“如果”下面加上一个“否则”，这样就变成了“如果…否则”块。
@@ -53,14 +53,14 @@
 接着，在否则里面添加一个“输入数字正确”的输出，就可以啦。✅
 
 答案：
-<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>![如果…否则2](Pic5.png)</cr>
+<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>![如果…否则2](Pic5.png)</cr>
 
 更多种情况
 ------
 如果我们想再让用户输入一次数值来验证一下，怎么办呢？
 
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&functions=false&text=false&name=chapter2lab4">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 细心的你可能已经看到了“否则如果”了。我们接下来就先添加一个“否则如果”块，然后嵌入“输入数字并提示消息”和“输出”块。程序会先判断“如果”块，如果这个判断是正确的，那么就执行“如果”块里面的内容，不然就判断“否则如果”，对的话就执行里面的内容，如果再不对，最后执行“否则”里面的内容。一个“判断”块整体可以有很多“否则如果”块，但只能有一个“如果”块和“否则”块。
@@ -88,7 +88,7 @@
 
 你也可以自己试一下怎么用“且”来体现计算机真的在“偷懒”：
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab5">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 不是的情况——“非”运算
@@ -106,14 +106,14 @@
 
 你也可以试一下其他含“非”运算的效果：
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab6">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 小练习
 ------
 让我们来练习一下我们刚学习的知识吧。
 <lab lang="blocks" parameters="loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab7">
-  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
 试试做出如下的效果：
