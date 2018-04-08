@@ -9,10 +9,10 @@
       "name": "初入编程",
       "content": "Chapter1/Chapter1.md",
       "sections": [
-        {"name":"输入&输出", "anchor":""},
-        {"name":"练习环境小热身", "anchor":""},
-        {"name":"计算", "anchor":""},
-        {"name":"小练习", "anchor":""}
+        {"name":"输入&输出"},
+        {"name":"练习环境小热身"},
+        {"name":"计算"},
+        {"name":"小练习"}
       ]
     }
   ]
