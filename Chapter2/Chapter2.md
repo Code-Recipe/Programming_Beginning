@@ -8,7 +8,9 @@
 ------
 在没有复杂语句的情况下，计算机语句是会从上到下运行的。
 比如我们把两个“输出”块上下连接起来，像下面这张图这样，那么上面的块会先被执行到。之后才会是下面的块，也就是会先输出1，再输出2。
+
 ![运行顺序](Pic1.png)
+
 你也可以在下面的练习环境里试一下：
 <lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false&name=chapter2lab1">
   <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
