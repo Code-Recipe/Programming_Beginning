@@ -19,6 +19,7 @@
       "name": "选择判断",
       "content": "Chapter2/Chapter2.md",
       "sections": [
+        {"name":"运行顺序"},
         {"name":"判断是不是"},
         {"name":"如果…否则…"},
         {"name":"更多种情况——否则如果"},
