@@ -39,6 +39,17 @@
         {"name":"类型"},
         {"name":"小练习"}
       ]
+    },
+    {
+      "name": "循环",
+      "content": "Chapter4/Chapter4.md",
+      "sections": [
+        {"name":"次数循环"},
+        {"name":"范围循环"},
+        {"name":"当循环和直到循环"},
+        {"name":"下一个循环和停止循环"},
+        {"name":"小练习"}
+      ]
     }
   ]
 }
