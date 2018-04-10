@@ -60,6 +60,15 @@
         {"name":"加长列表"},
         {"name":"小练习"}
       ]
+    },
+    {
+      "name": "函数",
+      "content": "Chapter6/Chapter6.md",
+      "sections": [
+        {"name":"函数与返回值"},
+        {"name":"参数"},
+        {"name":"小练习"}
+      ]
     }
   ]
 }
