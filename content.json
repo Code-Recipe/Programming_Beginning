@@ -69,6 +69,13 @@
         {"name":"参数"},
         {"name":"小练习"}
       ]
+    },
+    {
+      "name": "教程对接",
+      "content": "Chapter6/Chapter6.md",
+      "sections": [
+        {"name":"对接Java"}
+      ]
     }
   ]
 }
