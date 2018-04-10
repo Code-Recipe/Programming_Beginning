@@ -38,7 +38,7 @@
 上面的这个“循环列表”会对列表中的每一个项目执行一次输出语句，在执行输出语句之前，先把这一次执行的内容赋值给变量i。因此我们输出i时，输出的就是这个列表里面所有的内容。
 
 你也可以亲自试一下：
-<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab1">
+<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab2">
   <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
@@ -54,7 +54,7 @@
 上面的这个“循环列表”会对列表中的每一个项目执行一次输出语句，在执行输出语句之前，先把这一次执行的内容赋值给变量i。因此我们输出i时，输出的就是这个列表里面所有的内容。
 
 你也可以亲自试一下：
-<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab1">
+<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab3">
   <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
@@ -66,7 +66,7 @@
 ![插入到](Pic3.png)
 
 你可以先试着做做看：
-<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab1">
+<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab4">
   <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
 </lab>
 
