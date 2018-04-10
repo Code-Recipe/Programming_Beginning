@@ -53,6 +53,7 @@
 
 小练习
 ------
+
 试试用循环做出如下的效果：
 
 1. 重复输入三次数值，然后输出这三个数字的和。
@@ -62,5 +63,10 @@
 <cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>相当于从第一个范围内的奇数开始每隔2向一个变量加1</cr>
 
 4. 提示用户输入一个0到10之间的数字，只有输入5（正确答案）的时候才跳出循环，然后输出“答案正确”。
+
+操作台：
+<lab lang="blocks" parameters="lists=false&color=false&functions=false&text=false&name=chapter4lab4">
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
+</lab>
 
 学到这里，你就已经学完了几个程序的基本语句啦 👏👏👏~

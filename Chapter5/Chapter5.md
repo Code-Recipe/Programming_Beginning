@@ -81,8 +81,12 @@
 2. 输入三个数字，原样储存在一个列表里后，再修改这个列表里的项目，给列表里的每个项目加1，最后输出出来
 3. 输入三个数字，输出它们的和
 4. 输入三段文字，倒序输出
-
 提示：
 <cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>倒序输出可以理解为在列表里倒序储存，也就是每一次插入都插入到列表的最前面而不是最后面</cr>
+
+操作台：
+<lab lang="blocks" parameters="color=false&functions=false&text=false&name=chapter5lab5">
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
+</lab>
 
 学到这里，你就已经学完了前5章的内容啦 👏👏👏~

@@ -59,7 +59,9 @@
 2. 定义一个能从参数读取三个数字并返回它们的平均数的函数，并试着调用这个函数。
 3. 定义一个能计算三次方的函数，并用这个函数做一个三次方计算器。
 
-提示：
-<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>倒序输出可以理解为在列表里倒序储存，也就是每一次插入都插入到列表的最前面而不是最后面</cr>
+操作台：
+<lab lang="blocks" parameters="color=false&name=chapter6lab4">
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>
+</lab>
 
 学到这里，你就已经学完了计算机的基础概念啦，接下来我们有一章帮助你更好的衔接今后的学习 👏👏👏~
