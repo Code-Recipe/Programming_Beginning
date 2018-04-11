@@ -12,6 +12,8 @@
 
 输出对应System.out.println、计算对应运算符、变量对应variables、判断对应if语句、循环对应for和while、列表对应List（包括Array和ArrayList）以及函数对应function。
 
+我们在Java入门教程内会一边快速复习一遍内容，然后一边学习Java的有关知识。
+
 锲而不舍地坚持知识树的学习，你终将在计算机世界中获得胜利✌️
 
 同时也感谢对程谱的支持💖，让我们在下一个教程中继续见面吧
