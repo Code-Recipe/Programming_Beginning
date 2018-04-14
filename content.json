@@ -72,7 +72,7 @@
     },
     {
       "name": "教程对接",
-      "content": "Chapter6/Chapter6.md",
+      "content": "Chapter7/Chapter7.md",
       "sections": [
         {"name":"对接Java"}
       ]
